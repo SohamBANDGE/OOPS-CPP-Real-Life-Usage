@@ -1,19 +1,15 @@
 # Object Oriented Programming Using C++
 
 ## Student Information
-
-- **Name:** Soham Bandge
-- **Roll No.:** AD1109
-- **Division:** A
-- **PRN:** 125UAD1162
-- **Course Name:** Object Oriented Programming with C++
-- **Unit:** Unit II
-
----
+Name: Soham Bandge
+Roll No.:
+ AD1109
+Division: A
+PRN:  125UAD1162
+Course Name: Object Oriented Programming with C++
+Unit : Unit II
 
 ## Repository Structure
-
-```text
 OOPS-programs/
 │
 ├── Program_01/
